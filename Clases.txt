@@ -1,0 +1,18 @@
+Recreo
+Campo
+Cluster[Monomero, Donante, Receptor, Aglomerado]
+Sistema de referencia[Local, Global]
+Trayectoria
+Angulo
+Choque
+Punto
+Membrana[Semipermeable, Permeable]
+Genio
+Usuario
+Envolvente
+Dilatacion
+Aureola
+Interseccion
+Vecindad
+Proyeccion
+Vector
